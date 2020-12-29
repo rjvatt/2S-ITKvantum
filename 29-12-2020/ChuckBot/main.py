@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-bot = telebot.TeleBot('1454642492:AAHtMhPP9sZti-3J8DFcGC0UgXz3TR4UQeM')
+bot = telebot.TeleBot('ТОКЕН')
 
 @bot.message_handler(content_types=['text'])
 def get_text_messages(message):
