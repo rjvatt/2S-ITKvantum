@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=GmMD6gQYWe4&ab_channel=egoroff_channel
 https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html  
 
 4. Воспользоваться API https://api.frankfurter.app/docs
-Это API предоставляет актуальный курс валют по отношению к ЕВРО
+Это API предоставляет актуальный курс валют по отношению к ЕВРО  
 Варианты использования: 
     - https://api.frankfurter.app/latest  
     Получить актуальный курс ВСЕХ валют по отношению к ЕВРО  
