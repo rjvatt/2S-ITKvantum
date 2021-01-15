@@ -34,6 +34,32 @@ https://www.youtube.com/watch?v=NaA2H25gxN4&ab_channel=%D0%93%D0%BE%D1%88%D0%B0%
 https://pythontutor.ru/lessons/dicts/  
 https://devpractice.ru/python-lesson-9-dict/  
 
+3. Работа со строками  
+https://www.youtube.com/watch?v=GmMD6gQYWe4&ab_channel=egoroff_channel  
+https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html  
+
+4. Воспользоваться API https://api.frankfurter.app/docs
+Это API предоставляет актуальный курс валют по отношению к ЕВРО
+Варианты использования: 
+- https://api.frankfurter.app/latest  
+Получить актуальный курс ВСЕХ валют по отношению к ЕВРО  
+- https://api.frankfurter.app/latest?to=USD,GBP  
+Получить актуальный курс указанных валют по отношению к ЕВРО
+- https://api.frankfurter.app/latest?from=USD  
+Получить актуальный курс валют по отношению к ДОЛЛАРУ (USD можно заменить на любую валюту)
+- https://api.frankfurter.app/latest?to=USD,GBP?from=USD  
+Получить актуальный курс указанных валют к ДОЛЛАРУ  
+
+Во всех примерах все валюты можно менять  
+
+Задание:  
+Создать программу для перевода:  
+- доллары (USD) в рубли (RUB)  
+- рубли (RUB) в доллары (USD)  
+- Индонезийская рупия (IDR) в Новозеландские доллары (NZD)  
+
+Пример использования API находится в файле exchange.py в папке 15-01-2021  
+
 
 
 ### Репозитории учащихся 
