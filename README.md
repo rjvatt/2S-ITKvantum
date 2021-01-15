@@ -23,21 +23,21 @@ GET - Запрос на получение информации
 POST - Запрос на отправку или изменение информации  
 
 #### Домашнее задание
-1. ** Что такое списки в Python?  **
+1. * Что такое списки в Python?  *
 https://pythonworld.ru/tipy-dannyx-v-python/spiski-list-funkcii-i-metody-spiskov.html  
 https://www.youtube.com/watch?v=H3lpUEjFBeE&ab_channel=ITVDN  
 https://pythonru.com/primery/python-spiski-primery  
 
-2. ** Что такое словари в Python? **
+2. ** Что такое словари в Python? **  
 https://www.youtube.com/watch?v=NaA2H25gxN4&ab_channel=%D0%93%D0%BE%D1%88%D0%B0%D0%94%D1%83%D0%B4%D0%B0%D1%80%D1%8C  
 https://pythontutor.ru/lessons/dicts/  
 https://devpractice.ru/python-lesson-9-dict/  
 
-3. Работа со строками  
+3. ** Работа со строками  **  
 https://www.youtube.com/watch?v=GmMD6gQYWe4&ab_channel=egoroff_channel  
 https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html  
 
-4. Воспользоваться API https://api.frankfurter.app/docs  
+4. ** Воспользоваться API https://api.frankfurter.app/docs **  
 Это API предоставляет актуальный курс валют по отношению к ЕВРО  
 ** Варианты использования: **
     - https://api.frankfurter.app/latest  
@@ -51,7 +51,7 @@ https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
 
 Во всех примерах все валюты можно менять  
 
-Задание:  
+** Задание:**  
 Создать программу для перевода:  
 - доллары (USD) в рубли (RUB)  
 - рубли (RUB) в доллары (USD)  
