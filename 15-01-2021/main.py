@@ -27,8 +27,12 @@ import requests
 
 # Заменить URL на адрес другого API
 # https://http.cat/КОД
+# Добавить переменную name, которая будет вводиться с клавиатуры пользователем
+# Выполнить запрос к Agify, где вместо Anton - введённое имя
+# https://api.agify.io/?name=Anton
 
-answer = requests.get("https://official-joke-api.appspot.com/random_joke")
+
+answer = requests.get("https://api.agify.io/?name=")
 
 # Узнать названия полей
 json = answer.json()
