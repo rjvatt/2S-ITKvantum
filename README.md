@@ -1,27 +1,26 @@
-# Репозиторий группы 2С IT-Квантума г. Краснодар
-## 2020-2021 учебный год
+# Репозиторий группы 2С IT-Квантума г. Краснодар, 2020-2021 учебный год
 
-Задание на новогодние каникулы:  
-В примере с чакБот заменить API чака на любой другой текстовый API и интегрировать в своего бота
-
-### 15-01-2021
+### 15-01-2021 - выполнение GET запросов с помощью Requests
 HTML  
 Hyper Text Markup Language  
 
 HTTP  
 Hyper Text Transfer Protocol  
+
 HTTPS  
 Hyper Text Transfer Protocol Secure  
 
-Коды состояния HTTP  
+#### Коды состояния HTTP  
 https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%B4%D0%BE%D0%B2_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F_HTTP  
 
 Мы не просто получаем запрошенную информацию, а также информацию об информации (мета-информация)  
 Метаинформация в рамках HTTP передаётся в виде заголовков ответа (HTTP Headers)  
 
+#### Заголовки HTTP
+https://habr.com/ru/company/mailru/blog/450816/
+
 GET - Запрос на получение информации  
 POST - Запрос на отправку или изменение информации  
-
 
 #### Домашнее задание
 1. Что такое списки в Python?  
@@ -58,12 +57,13 @@ https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
 - рубли (RUB) в доллары (USD)  
 - Индонезийская рупия (IDR) в Новозеландские доллары (NZD)  
 
-Пример использования API находится в файле exchange.py в папке 15-01-2021  
+#### Пример использования API находится в файле exchange.py в папке 15-01-2021  
 
 
 
 ### Репозитории учащихся 
 
-https://github.com/Deminer/homework
+Давид:  
+https://github.com/Deminer/homework  
 
 
