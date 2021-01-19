@@ -59,11 +59,19 @@ https://pythonworld.ru/tipy-dannyx-v-python/stroki-funkcii-i-metody-strok.html
 
 **Пример использования API находится в файле exchange.py в папке 15-01-2021**  
 
-
-
 ### Репозитории учащихся 
 
 Давид:  
 https://github.com/Deminer/homework  
 
 
+### 19-01-2021 - Темы проектов
+Маски в Instagram (Давид, Максим)  
+- Установить https://sparkar.facebook.com/ar-studio/
+- Пройти обучающие видео
+    - https://www.youtube.com/watch?v=FdYgRSSyqQw&list=PLHwbfKqXfz0JbJpIylP7hNLnQ_LI2fDxM&ab_channel=DaryaLam
+
+Экскурсия по Кванториуму в 360 гр (Семён, Антон, Ростислав)
+- Почитать/посмотреть про камеру: https://insta360.ru/product/insta360-pro-kamera/
+- Установить на телефон: https://play.google.com/store/apps/details?id=com.arashivision.pro&hl=ru&gl=US 
+- https://www.youtube.com/watch?v=DJtypHXmj5I&ab_channel=%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9%D0%97%D0%BE%D1%80%D0%B8%D0%BD
